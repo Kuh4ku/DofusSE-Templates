@@ -1,0 +1,1 @@
+# DofusSE-Templates
